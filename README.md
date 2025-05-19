@@ -1,5 +1,4 @@
 # DataAnalytics-Assessment
-# DataAnalytics-Assessment
 
 ## Overview
 This repository contains SQL solutions for a SQL Proficiency Assessment involving customer transaction analysis across multiple database tables.
